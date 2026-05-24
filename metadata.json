@@ -1,0 +1,6 @@
+{
+  "name": "Shonen Study OS",
+  "description": "An intelligent, futuristic study operating system with anime-inspired progression and automated scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
